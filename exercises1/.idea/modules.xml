@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exercise2/exercise2.iml" filepath="$PROJECT_DIR$/exercise2/exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercises1.iml" filepath="$PROJECT_DIR$/.idea/exercises1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise1/multitimer/multitimer.iml" filepath="$PROJECT_DIR$/exercise1/multitimer/multitimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise1/timer/timer.iml" filepath="$PROJECT_DIR$/exercise1/timer/timer.iml" />
+    </modules>
+  </component>
+</project>

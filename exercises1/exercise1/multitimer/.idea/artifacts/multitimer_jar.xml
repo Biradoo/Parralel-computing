@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="multitimer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/multitimer_jar</output-path>
+    <root id="archive" name="multitimer.jar">
+      <element id="module-output" name="multitimer" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="timer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exercise1/multitimer/timer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

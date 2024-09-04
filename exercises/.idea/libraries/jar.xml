@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exercise2/jar/itext-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/exercise2/jar/bcmail-jdk14-1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/exercise2/jar/bctsp-jdk14-1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/exercise2/jar/bcprov-jdk14-1.38.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

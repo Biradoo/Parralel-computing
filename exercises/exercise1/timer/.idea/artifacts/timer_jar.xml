@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="timer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/timer_jar</output-path>
+    <root id="archive" name="timer.jar">
+      <element id="module-output" name="timer" />
+    </root>
+  </artifact>
+</component>
