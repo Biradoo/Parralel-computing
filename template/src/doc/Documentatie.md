@@ -7,13 +7,15 @@ hebben, is het niet nodig om na te denken over het beschermen van data (kritieke
 
 ## Excercise 1.1
 Zoals wikipedia ook zegt over Bubble Sort (https://en.wikipedia.org/wiki/Bubble_sort) is het een zeer inefficiënte manier van sorteren voor grotere datasets. Die tijd die nodig is om een array te sorteren wordt exponentieel groter naarmate de array toeneemt. 
-Dit komt overeen met de tijdscomplexiteit van O(n2).
+Dit komt overeen met de tijdscomplexiteit van O(n2). In de grafiek zien we dat naarmate de Array groter wordt, de tijd ook toeneemt. Dit komt doordat bubblesort door de gehele array loopt totdat er geen mogelijke swaps meer zijn.
+
 
 ![Gemiddelde Sorteertijd per aantal elementen](resource/exc1.1-grafiek.png)
 
 ## Excercise 1.2
 In excercise 1.2 is er ook gebruik gemaakt van Bubble Sorting, maar deze keer is eerst de array met nummers gesplits, gesorteerd en daarna weer gemerged. 
-Omdat we weten dat de tijdscomplexiteit O(n2) is, is het een zekere verbetering, want de array is minder groot. Elke helft heeft nog steeds O(n2) tijd nodig, maar het zijn nu 2 kleinere lijsten. 
+Omdat we weten dat de tijdscomplexiteit O(n2) is, is het een zekere verbetering, want de array is minder groot. Elke helft heeft nog steeds O(n2) tijd nodig, maar 2 kleinere arrays hoeven nu minder te vergelijken en minder te swappen.
+In de grafiek zie je ook dat hierdoor de tijd die nodig is om te sorteren 2 keer zo snel is. 
 Het samenvoegen is een lineaire operatie O(n). Dit kost veel minder tijd dan sorteren zonder te splitten.
 
 Hier is de blauwe lijn Bubble Sorting ZONDER spliten en de oranje lijn is MET splitsen
